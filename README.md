@@ -21,6 +21,38 @@ This lab stands to prepare the moderngl development environment. Below the steps
 ## How to run your program
 
 ```
+First you will need to open the github repository in visual studios. Afer opening you need to make sure that you have installed python in your computer, if you have not, you will need to install it in the micrsoft store or in the offical python site:
+https://www.python.org/downloads/
+
+After making sure that you have python installed you need to follow the following steps on each of the programs in order to run them.
+
+Program 1:
+Open the terminal and execute the commands:
+-pip install moderngl
+-pip install pygame
+After executing these commands you can execute the program and it will work :D
+
+Program 2:
+Open the terminal and execute the following commands:
+-pip install PyGLM
+-pip install numpy
+After executing this commands you will be able to run the program :D
+
+-Program 3:
+Open the terminal and execute the following commands:
+-pip install objloader
+-pip install Pillow
+
+After executing the commands you need to download the following files and put them in the same folder of the program:
+-An image of the Tec logo
+-crate.obj (that you can finnd it in the github repository)
+-lowpoly_toy_car.obj(that also can be found in the github repository)
+ Once you have download those files you will need to change the paths where those files are stored.
+
+By doing all this steps you will be able to run the program correctly :D
+
+
+
 # Update this section with instructions on how to run your programs. 
 
 # Consider that these instructions will be executed 
